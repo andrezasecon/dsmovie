@@ -88,7 +88,5 @@ function FormCard( { movieId } : Props) {
 }
 
 export default FormCard;
-function userNavigate() {
-  throw new Error('Function not implemented.');
-}
+
 
